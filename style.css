@@ -1,0 +1,294 @@
+/* *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+} */
+
+body{
+    position: relative;
+}
+
+
+
+.nav{
+    width: 40%;
+    height: 2000px;
+    background-color: rgb(44, 44, 44);
+}
+li{
+    list-style-type: none;
+    display: inline;
+    font-size: x-small;
+    margin-top: 20px;
+}
+.navbar{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    word-spacing: 5px;
+}
+.logo{
+    padding-top: 10px;
+    padding-left: 5px;
+}
+.eee{
+    word-spacing: 0px;
+    border: 1px solid white;
+}
+.para{
+    font-size: smaller;
+    color: white;
+}
+.head{
+    color: white;
+    font-size: x-large;
+}
+#ques{
+    background-color: red;
+    color: white;
+    border: none;
+    height: 30px;
+    border-radius: 4px;
+}
+.ans{
+    display: inline-block;
+    background-color: white;
+    width: 115px;
+    height: 150px;
+    border-radius: 5px;
+}
+.had1{
+    text-align: left;
+    font-size: x-small;
+}
+.box1{
+    font-size: xx-small;
+    text-align: left;
+    margin-top: 42px;
+}
+.had2{
+    text-align: left;
+    font-size: x-small;
+}
+.box2{
+    text-align: left;
+    font-size: x-small;
+    margin-top: 60px;
+}
+.had3{
+    text-align: left;
+    font-size: x-small; 
+}
+.box3{
+    text-align: left;
+    font-size: x-small;
+    margin-top: 25px;
+}
+.had4{
+    text-align: left;
+    font-size: x-small;  
+}
+.box4{
+    text-align: left;
+    font-size: x-small;
+    margin-top: 25px;
+}
+.img{
+    margin-right: -50%;
+    margin-top:-120px ;
+    
+}
+.had5{
+    font-size: medium;
+    text-align: left;
+    padding-left: 20px;
+}
+.box5{
+    font-size: x-small;
+    text-align: left;
+    padding-left: 20px;
+}
+.had6{
+    font-size: medium;
+    text-align: none;
+    padding-left: 280px;
+    
+}
+.box6{
+    font-size: x-small;
+    text-align: none;
+    padding-left: 290px;
+    
+}
+.imge{
+    margin-left: -55%;
+    margin-top:-120px ;}
+.had7{
+    font-size: medium;
+    text-align: none ;
+    padding-right:260px ;
+}
+.box7{
+    font-size: x-small;
+    text-align: none;
+    padding-right: 240px; 
+} 
+.cntr{
+    width: 400px;
+    background-color: black;
+    color: azure; 
+    border-radius: 5px;  
+} 
+.had8{
+    width:400px;
+}
+.p4{
+    font-size: medium;
+    text-align: none ;
+    margin-right: 140px;
+    padding-top: 30px;
+}  
+.box8{
+    font-size: x-small;
+    text-align: none;
+    margin-right: 120px;
+    padding-bottom: 30px;
+}
+#btn{
+    background-color: red;
+    color: white;
+    border: none;
+    height: 30px;
+    border-radius: 4px;
+    margin-left: 240px;      
+}   
+.had9{
+    font-size: medium;
+    text-align: none ;
+    padding-right:260px ;
+
+} 
+ .abox{
+    width:400px;
+    height: 50px;
+    border-color: blue;
+
+ }
+ .an{
+    display: inline-block;
+    background-color: white;
+    width: 115px;
+    height: 150px;
+    border: 1px solid black;
+}
+.box15{
+    text-align: center;
+}
+.had15{
+    text-align: center;
+}
+.petr{
+    padding-right: 270px;
+}
+.img11{
+    /* padding-right: -500px; */
+    margin-top: -4000px;
+    margin-left: 20px;
+}
+.img8{
+    margin-left: 300px;
+    margin-top: -400px ;
+}
+.bell1{
+    text-align: left;
+    padding-left: 20px;
+}
+.bell{
+    text-align: left;
+    font-size: xx-small;
+    padding-left: 20px;
+}
+.had16{
+    text-align: center;
+    padding-left: 120px;
+}
+.had17{
+    font-size: xx-small;
+    text-align: center;
+    padding-left: 120px;
+}
+.img86{
+    padding-right: 280px;
+    margin-top: -80px;
+    border-radius: 5px;
+}
+.img99{
+    padding-left: 130px;
+    margin-top: -50px;
+}
+.had18{
+    text-align: center;
+    padding-right: 230px;
+}
+.had19{
+    font-size: xx-small;
+    text-align: center;
+    padding-right: 230px;
+}
+.img103{
+    padding-right: 220px;
+    border-radius: 5px;
+}
+.img811{
+    padding-left: 200px;
+    margin-top: -230px;
+}
+.had20{
+    text-align: center;
+    font-size: xx-small;
+    font-style: bold;
+}
+h5{
+    padding-left: 150px;
+    margin-top: -40px;
+    font-size: small;
+}
+.img30{
+    border-radius: 20px;
+}
+.im30{
+    margin-right: 200px;
+}
+.top{
+    display: inline-block;
+    /* background-color: white; */
+    width: 115px;
+    height: 150px;
+    /* border-radius: 5px; */
+}
+.rrr{
+    font-size: medium;
+}
+.zzz{
+    font-size: small;
+}
+.pti{
+    padding-right: 200px;
+}
+.tlp{
+    padding-left: 250px;
+    margin-top: -200px;
+}
+.lll{background-color: blue;
+    color: white;
+    border: none;
+    height: 30px;
+    border-radius: 4px;
+    margin-left: 190px;
+
+}
+
+
+
+
+
